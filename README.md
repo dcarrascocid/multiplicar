@@ -1,6 +1,5 @@
-echo "# multiplicar" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/dcarrascocid/multiplicar.git
-git push -u origin master
+## PRIMERA PRUEBA DE GIT EN CONSOLA
+esta aplicacion es para realizar pruebas y primeros pasos en git
+```
+npm install
+``` 
